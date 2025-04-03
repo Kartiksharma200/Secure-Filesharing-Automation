@@ -52,7 +52,7 @@ Below are the currently identified bugs in the system:
 ### **BUG-005: Signup allows special characters in the name field**  
 **Description:** Users can enter special characters in the name field, causing inconsistencies in user data.  
 **Severity/Priority:** Major/Medium  
-[More Details]([#bug-005-signup-allows-special-characters-in-the-name-field](https://github.com/Kartiksharma200/Secure-Filesharing-Automation/issues/5))  
+[More Details](#bug-005-signup-allows-special-characters-in-the-name-field)  
 
 
 ## Project Structure

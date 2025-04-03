@@ -105,7 +105,6 @@ Manual testing follows a structured test plan, ensuring:
 - Functional Testing: Validates core features like login, signup, file upload.
 - Security Testing: Ensures data encryption and secure authentication.
 - UI/UX Testing: Confirms usability and user interface consistency.
-- Regression Testing: Tests system stability after updates.
 
 **Test Execution**
 

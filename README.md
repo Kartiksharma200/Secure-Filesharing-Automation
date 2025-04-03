@@ -32,7 +32,7 @@ Below are the currently identified bugs in the system:
 ### **BUG-001: Signup allows invalid email format**  
 **Description:** Users can sign up with an invalid email format, leading to possible issues with authentication.  
 **Severity/Priority:** High/High  
-[More Details](#bug-001-signup-allows-invalid-email-format)  
+[More Details](#bug-001-details)  
 
 ### **BUG-002: Signup allows weak passwords**  
 **Description:** Users can register with weak passwords, increasing security risks.  

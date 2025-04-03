@@ -112,11 +112,7 @@ Manual testing follows a structured test plan, ensuring:
 - Test cases are documented and executed manually.
 - Defects are logged and tracked for resolution.
 
-## Contribution Guidelines
 
-- Fork the repository and create a new branch for your changes.
-- Submit a pull request with a detailed description of your changes.
-- Follow best practices in testing and automation.
 ## Explaination Video
   -  https://drive.google.com/drive/folders/1OXNZnnAWWv1eBoR93ysoLsvSOwaZ4hPb?usp=sharing
     

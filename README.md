@@ -25,6 +25,36 @@ Secure Filesharing Automation is a project designed to automate file sharing sec
 - Reporting: Extent Reports, TestNG Reports
 - Version Control: GitHub
 
+## Bug Reports
+
+Below are the currently identified bugs in the system:
+
+### **BUG-001: Signup allows invalid email format**  
+**Description:** Users can sign up with an invalid email format, leading to possible issues with authentication.  
+**Severity/Priority:** High/High  
+[More Details](#bug-001-signup-allows-invalid-email-format)  
+
+### **BUG-002: Signup allows weak passwords**  
+**Description:** Users can register with weak passwords, increasing security risks.  
+**Severity/Priority:** High/High  
+[More Details](#bug-002-signup-allows-weak-passwords)  
+
+### **BUG-003: Signup allows names longer than 100 characters**  
+**Description:** Users can enter names exceeding 100 characters, which may cause UI and database issues.  
+**Severity/Priority:** Major/High  
+[More Details](#bug-003-signup-allows-names-longer-than-100-characters)  
+
+### **BUG-004: Signup allows email addresses exceeding 255 characters**  
+**Description:** The system accepts email addresses longer than 255 characters, leading to validation and storage issues.  
+**Severity/Priority:** Major/Medium  
+[More Details](#bug-004-signup-allows-email-addresses-exceeding-255-characters)  
+
+### **BUG-005: Signup allows special characters in the name field**  
+**Description:** Users can enter special characters in the name field, causing inconsistencies in user data.  
+**Severity/Priority:** Major/Medium  
+[More Details](#bug-005-signup-allows-special-characters-in-the-name-field)  
+
+
 ## Project Structure
 ~~~
 kartiksharma200-secure-filesharing-automation/
